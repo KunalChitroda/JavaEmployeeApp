@@ -1,7 +1,5 @@
 # JavaEmployeeApp
 
-# JAVA_LAB_8-10
-
 **Assignment Class:**
 - Extends `javafx.application.Application`.
 - Contains the `main()` method to launch the JavaFX application.
